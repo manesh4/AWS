@@ -1,0 +1,38 @@
+data--database
+
+1)redshift cluster--100
+2)create a datbase
+3)create a table
+4)load the data to that table
+
+
+redshift spectrum
+1)redshift cluster--50
+2)create a datbase
+3)load the data from s3 bucket
+NOTE: loading the data into datbase,
+you are referring the s3 data in the redshift database
+
+what is the advantage of redshift spectrum?
+when to chose which one?
+
+1)Architecure of redhist?
+2)different ways of loading data to redshift
+3)what is redshift spectrum?
+4)what is the advantage of redshift spectrum?
+5)when to chose which one?
+when there is no criticalty of the data in redshift or reporting like power bi
+used from redshift then only i will go for redshift spectrum
+or else i will load the data into redshift database.
+
+Redshift spectrum--having the data in s3 and pointing in redshift database
+
+
+
+
+
+
+
+
+
+
